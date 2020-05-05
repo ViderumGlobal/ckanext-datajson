@@ -1,5 +1,7 @@
 ckanext-datajson
 ================
+**Hello! We’ve moved to Datopian and this repo is no longer maintained. Please follow this link for an updated version:
+https://github.com/datopian/ckanext-datajson**
 
 [![Build Status](https://travis-ci.org/GSA/ckanext-datajson.svg?branch=master)](https://travis-ci.org/GSA/ckanext-datajson)
 [![Codacy Badge](https://api.codacy.com/project/badge/c4816041270448b6a0c9760933065b7e)](https://www.codacy.com/app/alexandr-perfilov/ckanext-datajson)
